@@ -13,7 +13,7 @@ I work on a variety of projects, and a diverse group of clients.
 * [Club Penguin Private Server Development](https://solero.me/) (2019-): I'm a member of the CPPS development commmunity. I work for a wide variety of servers helping out with backend & development, as well as System Administration.
 
 # Contact
-You can [email me - ilto:root@altodev.pw)
+My only public method of contact is via [email](mailto:root@altodev.pw)
 
 # Recently listened to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iujvv6nexzy5gfvqglv1cyx60&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
