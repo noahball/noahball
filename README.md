@@ -11,6 +11,7 @@ I work on a variety of projects, and a diverse group of clients.
 * [Candor Services](https://discord.gg/DYHyGVT) (2020-): Freelancer for Web Design, Development and System Administration
 * [VexNode LLC](https://vexnode.host/) (2020-2020): Executive and System Administrator (Ceased operations in August 2020)
 * [Club Penguin Private Server Development](https://solero.me/) (2019-): I'm a member of the CPPS development commmunity. I work for a wide variety of servers helping out with backend & development, as well as System Administration.
+* [OmniaLabs](https://omnialabs.io) (2020-): An upcoming provider of cybersecurity and cloud platform services.
 
 # Contact
 My only public method of contact is via [email](mailto:root@altodev.pw)
