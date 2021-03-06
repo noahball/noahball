@@ -1,17 +1,18 @@
 # About Me
-I'm a (nearly) fullstack developer from New Zealand. I mainly work in your generic web langauges, but can spice things up with traditional languages such as Java.
-
-# Education
-High School: 2019 -
+I'm a fullstack developer from New Zealand. I mainly work in your generic web langauges, but can spice things up with traditional languages such as Java.
 
 # Projects
-I work on a variety of projects, and a diverse group of clients.
-### Most of my work is available on [my website](https://altodev.pw/)
-* [AstroVPN LTD](https://astrovpn.co/) (2020-): Executive (Fullstack Developer, Software Engineer and System Administrator)
-* [Candor Services](https://discord.gg/DYHyGVT) (2020-): Freelancer for Web Design, Development and System Administration
+Personal projects that I create in my spare time.
+* [CPCentral](https://cpcentral.net): A website delivering the latest Club Penguin Community news. Powered by a WordPress theme made by me.
+* [Better Bricks](https://www.curseforge.com/minecraft/mc-mods/better-bricks): A mod that adds coloured bricks into Minecraft.
+
+# Experiences
+I've worked in a team on the following projects:
+* [AstroVPN LTD](https://astrovpn.co/) (2020-2021): Executive (Fullstack Developer, Software Engineer and System Administrator)
+* [Candor Services](https://discord.gg/DYHyGVT) (2020-2021): Freelancer for Web Design, Development and System Administration
 * [VexNode LLC](https://vexnode.host/) (2020-2020): Executive and System Administrator (Ceased operations in August 2020)
 * [Club Penguin Private Server Development](https://solero.me/) (2019-): I'm a member of the CPPS development commmunity. I work for a wide variety of servers helping out with backend & development, as well as System Administration.
-* [OmniaLabs](https://omnialabs.io) (2020-): An upcoming provider of cybersecurity and cloud platform services.
+* [OmniaLabs](https://omnialabs.io) (2020-2021): An upcoming provider of cybersecurity and cloud platform services.
 
 # Contact
 My only public method of contact is via [email](mailto:root@altodev.pw)
