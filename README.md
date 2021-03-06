@@ -3,8 +3,10 @@ I'm a fullstack developer from New Zealand. I mainly work in your generic web la
 
 # Projects
 Personal projects that I create in my spare time.
-* [CPCentral](https://cpcentral.net): A website delivering the latest Club Penguin Community news. Powered by a WordPress theme made by me.
+* [CPCentral](https://cpcentral.net): A website delivering the latest Club Penguin Community news. Powered by a WordPress theme made by me, and a custom API.
 * [Better Bricks](https://www.curseforge.com/minecraft/mc-mods/better-bricks): A mod that adds coloured bricks into Minecraft.
+* [Blaze](https://github.com/noahball/blaze): A mod that adds coloured bricks into Minecraft.
+... and a few other things that aren't public.
 
 # Experiences
 I've worked in a team on the following projects:
